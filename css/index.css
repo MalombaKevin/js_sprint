@@ -17,7 +17,10 @@ input {
     /* margin-bottom: 100px; */
 }
 form {
-    position: relative;
-    left: 40%;
     margin-top: 80px;
+    margin-bottom: 70px;
+}
+body {
+    display: flex;
+    justify-content: center;
 }
