@@ -11,7 +11,8 @@ quizForm.addEventListener("submit",
     function(event) {
         event.preventDefault();
         var quizData = new FormData(quizForm);
-        compareData(quizData);
+        console.log(quizData);
+        // compareData(quizData);
     });
 
 function compareData(quizData) {
