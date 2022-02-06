@@ -41,6 +41,12 @@ body {
 button {
     position: relative;
     left: 30%;
+    background-color: blue;
+    color: white;
+    height: 40px;
+    width: 40%;
+    border-radius: 20px;
+    border: 1px solid blue;
 }
 
 .header {
