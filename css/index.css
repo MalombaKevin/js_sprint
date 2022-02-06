@@ -18,8 +18,10 @@ nav {
     background-color: red;
 }
 
-nav>li>p {
-    font-size: larger;
+p {
+    font-size: xx-large;
+    background-color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 li {
@@ -28,7 +30,7 @@ li {
 }
 
 form {
-    /* background-color: yellow; */
+    width: 600px;
 }
 
 body {
@@ -50,8 +52,13 @@ h1 {
     color: red;
 }
 
-.navigationlist {
-    /* background-color: black; */
-    /* display: flex; */
-    /* justify-content: center; */
+.quote {
+    width: 600px;
+    height: 200px;
+}
+
+.quiz {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
