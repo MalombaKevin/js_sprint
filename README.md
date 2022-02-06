@@ -1,4 +1,4 @@
-#JS-SPRINT
+# JS-SPRINT
 
 ##### By Kevin Malomba
 ### Front-end developer
