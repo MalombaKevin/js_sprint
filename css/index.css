@@ -49,6 +49,11 @@ button {
     border: 1px solid blue;
 }
 
+audio {
+    position: relative;
+    left: 120px;
+}
+
 .header {
     width: 200%;
     height: 150px;
