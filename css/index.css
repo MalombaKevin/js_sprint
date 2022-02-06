@@ -5,22 +5,53 @@
     height: vh;
 }
 
-p {
-    display: inline;
-}
-
-
-}
-input {
-    width: 250px;
-    height: 40px;
-    /* margin-bottom: 100px; */
-}
-form {
-    margin-top: 80px;
-    margin-bottom: 70px;
-}
-body {
+.quiz {
     display: flex;
     justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    background-color: red;
+}
+
+nav>li>p {
+    font-size: larger;
+}
+
+li {
+    display: inline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+form {
+    /* background-color: yellow; */
+}
+
+body {
+    margin-top: 30px;
+    background-image: url('');
+}
+
+button {
+    position: relative;
+    left: 30%;
+}
+
+.header {
+    width: 200%;
+    height: 150px;
+}
+
+h1 {
+    color: red;
+}
+
+.navigationlist {
+    /* background-color: black; */
+    /* display: flex; */
+    /* justify-content: center; */
 }
