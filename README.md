@@ -26,12 +26,15 @@
 
 
 
+
 ## Technology Used
 * HTMl - used to buid the structure of the site
 
 * CSS - which was used to style the pages to make it appealing. Used in styling the buttons and navigation bar
 
 * JavaScript - which make the pages interactive
+
+* Miro -Online tool for design. [https://miro.com/app/board/uXjVOR9B3To=/?invite_link_id=608295440861]
 
 ## Licence
 
